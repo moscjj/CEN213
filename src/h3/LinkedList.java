@@ -13,6 +13,9 @@ public class LinkedList {
 	public void traverseFoward(){
 		
 	}
+	public void finndNode(){
+		
+	}
 	
 
 }
