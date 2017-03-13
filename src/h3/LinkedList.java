@@ -6,5 +6,10 @@ public class LinkedList {
 	public int insertNOde;
 	
 	
+	public void findNode(){
+		
+	}
+	
+	
 
 }
