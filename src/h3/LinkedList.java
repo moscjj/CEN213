@@ -10,6 +10,9 @@ public class LinkedList {
 		
 	}
 	
+	public void traverseFoward(){
+		
+	}
 	
 
 }
