@@ -13,4 +13,7 @@ public class StackAndQueue {
 	public void push(){
 		
 	}
+public void peek(){
+		
+	}
 	}
