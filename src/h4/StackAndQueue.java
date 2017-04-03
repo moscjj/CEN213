@@ -5,4 +5,9 @@ import h3.LinkedList;
 public class StackAndQueue {
 	LinkedList ll = new LinkedList();
 
-}
+
+
+	public void pop(){
+		
+	}
+	}
