@@ -16,4 +16,7 @@ public class StackAndQueue {
 public void peek(){
 		
 	}
+public void enqueue(){
+	
+}
 	}
