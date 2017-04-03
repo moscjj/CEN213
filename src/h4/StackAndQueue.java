@@ -10,4 +10,7 @@ public class StackAndQueue {
 	public void pop(){
 		
 	}
+	public void push(){
+		
+	}
 	}
