@@ -1,6 +1,6 @@
 package hw5;
 
-public class BubbleSort {
+public class BubbleSortList {
 int i;
 int j;
 int l;
