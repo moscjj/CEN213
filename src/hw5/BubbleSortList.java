@@ -6,5 +6,5 @@ int j;
 int l;
 
 int k;
-int t;
+int t;int a;
 }
