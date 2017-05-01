@@ -5,4 +5,5 @@ public class BinarySearchTree {
 	
 	int i;
 	int j;
+	int k;
 }
